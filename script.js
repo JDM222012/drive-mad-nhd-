@@ -45,7 +45,7 @@
 
   // Game iframe
   const iframe = document.createElement("iframe");
-  iframe.src = "https://u3d.degames.org/35"; // Working game
+  iframe.src = "https://u3d.degames.org/35.html"; // Working game
   Object.assign(iframe.style, {
     width: "100%",
     height: "calc(100% - 50px)",
