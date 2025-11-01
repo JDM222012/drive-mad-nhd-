@@ -45,7 +45,7 @@
 
   // Game iframe
   const iframe = document.createElement("iframe");
-  iframe.src = "https://crossyroadonline.github.io/play/drive-mad.html"; // Working game
+  iframe.src = "https://u3d.degames.org/35"; // Working game
   Object.assign(iframe.style, {
     width: "100%",
     height: "calc(100% - 50px)",
